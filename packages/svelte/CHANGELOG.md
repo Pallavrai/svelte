@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.243
+
+### Patch Changes
+
+- fix: error on incorrect attributes for svelte:body ([#13084](https://github.com/sveltejs/svelte/pull/13084))
+
 ## 5.0.0-next.242
 
 ### Patch Changes
